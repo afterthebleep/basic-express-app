@@ -1,0 +1,26 @@
+{
+  "name": "Basic-Express-App",
+  "version": "1.0.0",
+  "description": "Basic server | File scaffold setup",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aishao/Basic-Express-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aishao/Basic-Express-App/issues"
+  },
+  "homepage": "https://github.com/aishao/Basic-Express-App#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
